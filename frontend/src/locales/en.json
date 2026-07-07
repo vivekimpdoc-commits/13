@@ -1,0 +1,35 @@
+{
+  "sidebar": {
+    "dashboard": "Executive Dashboard",
+    "caseIntel": "AI Case Intelligence",
+    "stmtIntel": "AI Statement Intelligence",
+    "digitalEvid": "Digital Evidence",
+    "fslIntel": "FSL Intelligence",
+    "courtIntel": "Court Readiness",
+    "superIntel": "Supervisor Intel",
+    "predIntel": "Predictive Intel",
+    "resIntel": "AI Resource Intel",
+    "gisIntel": "GIS Intelligence",
+    "ccCenter": "Command & Control",
+    "notifications": "Notifications",
+    "docIntel": "AI Document Intel",
+    "kpi": "Performance & KPI",
+    "audit": "Audit & Compliance",
+    "knowledge": "Knowledge Management",
+    "aiChat": "AI Chat Assistant"
+  },
+  "header": {
+    "title": "UP Police AI Investigation Platform",
+    "language": "Language",
+    "profile": "Profile"
+  },
+  "dashboard": {
+    "totalCases": "Total Active Cases",
+    "pendingFsl": "Pending FSL Reports",
+    "courtReadiness": "Court Readiness Score",
+    "aiAlerts": "Critical AI Alerts",
+    "recentAlerts": "Recent System Alerts",
+    "delayRisk": "Delay Risk Detected (Kanpur Zone)",
+    "fslDelay": "FSL Report delayed > 30 days (Lucknow)"
+  }
+}
